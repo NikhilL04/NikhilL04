@@ -2,7 +2,7 @@
 - 👀 I’m interested in making Api's In SpringBoot 
 - 🌱 I’m currently learning on SpringBoot framework
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me - nikhillagad893@gmail.com
+- 📫 Reach me - nikhillagad893@gmail.com
 
 <!---
 NikhilL04/NikhilL04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
